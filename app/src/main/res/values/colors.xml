@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="card">#121216</color>
+    <color name="card_hi">#1C1C22</color>
+    <color name="outline">#2A2A32</color>
+    <color name="track">#2A2A32</color>
+    <color name="red">#FF1744</color>
+    <color name="red_dark">#B0102F</color>
+    <color name="red_halo">#33FF1744</color>
+    <color name="text">#F2F2F5</color>
+    <color name="muted">#8C8C98</color>
+    <color name="amber">#FFB300</color>
+    <color name="banner_warn_bg">#33FFB300</color>
+    <color name="banner_danger_bg">#33FF1744</color>
+</resources>

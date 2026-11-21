@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SBL 4 A2 SUPER BOOST</string>
+    <string name="brand">SBL 4 A2</string>
+    <string name="title">SUPER BOOST</string>
+    <string name="label_device">AUSGABEGERÄT</string>
+    <string name="label_gain">VERSTÄRKUNG</string>
+    <string name="label_source">QUELLE</string>
+    <string name="label_presets">PRESETS</string>
+    <string name="label_eq">EQUALIZER</string>
+    <string name="label_tone">KLANGFORM</string>
+    <string name="label_status">GERÄTE-CHECK</string>
+    <string name="chip_system">Systemweit (experimentell)</string>
+    <string name="chip_player">Eigener Player</string>
+    <string name="btn_file">Datei</string>
+    <string name="btn_tone">Testton</string>
+    <string name="btn_stop">Stopp</string>
+    <string name="preset_normal">Normal</string>
+    <string name="preset_bass">Bass</string>
+    <string name="preset_clear">Clear Sound</string>
+    <string name="preset_extra">Extra Boost</string>
+    <string name="bass">Bass Boost</string>
+    <string name="treble">Höhen</string>
+    <string name="btn_reset">Alles zurücksetzen</string>
+    <string name="scale_0">0 %</string>
+    <string name="scale_100">100 % = Original</string>
+    <string name="scale_200">200 %</string>
+    <string name="cd_power">Booster ein- oder ausschalten</string>
+    <string name="footer">Der Booster erhöht die Lautheit per Software (Verstärkung mit Kompressor, Equalizer, Bass). Er kann die physikalischen Grenzen des Lautsprechers nicht überwinden: Maximale Schallleistung, Membranhub und der Begrenzer des Lautsprechers bleiben unverändert.</string>
+</resources>

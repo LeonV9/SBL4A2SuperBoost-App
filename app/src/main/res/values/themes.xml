@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.SBL4A2" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorOnPrimary">@color/text</item>
+        <item name="colorPrimaryContainer">@color/red_dark</item>
+        <item name="colorOnPrimaryContainer">@color/text</item>
+        <item name="colorSecondary">@color/red</item>
+        <item name="colorOnSecondary">@color/text</item>
+        <item name="colorSurface">@color/card</item>
+        <item name="colorOnSurface">@color/text</item>
+        <item name="colorSurfaceVariant">@color/card_hi</item>
+        <item name="colorOnSurfaceVariant">@color/muted</item>
+        <item name="colorOutline">@color/outline</item>
+        <item name="android:colorBackground">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:navigationBarColor">@color/black</item>
+    </style>
+
+    <style name="Text.Caption">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/muted</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:letterSpacing">0.15</item>
+    </style>
+
+    <style name="Widget.SBL.Slider" parent="Widget.Material3.Slider">
+        <item name="trackColorActive">@color/red</item>
+        <item name="trackColorInactive">@color/track</item>
+        <item name="thumbColor">@color/red</item>
+        <item name="haloColor">@color/red_halo</item>
+    </style>
+
+    <style name="Widget.SBL.Chip" parent="Widget.Material3.Chip.Filter">
+        <item name="chipBackgroundColor">@color/chip_bg</item>
+        <item name="android:textColor">@color/chip_text</item>
+        <item name="chipStrokeColor">@color/red</item>
+        <item name="chipStrokeWidth">1dp</item>
+        <item name="checkedIconVisible">false</item>
+    </style>
+
+    <style name="Widget.SBL.Button" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="strokeColor">@color/red</item>
+        <item name="android:textColor">@color/red</item>
+    </style>
+</resources>
